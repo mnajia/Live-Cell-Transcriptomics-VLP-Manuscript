@@ -1,0 +1,8 @@
+CROPseq-24xMS2_plasmid_library	/broad/hptmp/mnajia/cropseq_barcode_library/fastq/CROPseq-24xMS2_plasmid_library.fastq.gz
+CROPseq-24xMS2_293T_gDNA_library	/broad/hptmp/mnajia/cropseq_barcode_library/fastq/CROPseq-24xMS2_293T_gDNA_library.fastq.gz
+CROPseq-24xMS2_293T_Gag_VLPs_rep1	/broad/hptmp/mnajia/cropseq_barcode_library/fastq/CROPseq-24xMS2_293T_Gag_VLPs_rep1.fastq.gz
+CROPseq-24xMS2_293T_Gag_VLPs_rep2	/broad/hptmp/mnajia/cropseq_barcode_library/fastq/CROPseq-24xMS2_293T_Gag_VLPs_rep2.fastq.gz
+CROPseq-24xMS2_293T_Gag_VLPs_rep3	/broad/hptmp/mnajia/cropseq_barcode_library/fastq/CROPseq-24xMS2_293T_Gag_VLPs_rep3.fastq.gz
+CROPseq-24xMS2_293T_Gag-MCP_VLPs_rep1	/broad/hptmp/mnajia/cropseq_barcode_library/fastq/CROPseq-24xMS2_293T_Gag-MCP_VLPs_rep1.fastq.gz
+CROPseq-24xMS2_293T_Gag-MCP_VLPs_rep2	/broad/hptmp/mnajia/cropseq_barcode_library/fastq/CROPseq-24xMS2_293T_Gag-MCP_VLPs_rep2.fastq.gz
+CROPseq-24xMS2_293T_Gag-MCP_VLPs_rep3	/broad/hptmp/mnajia/cropseq_barcode_library/fastq/CROPseq-24xMS2_293T_Gag-MCP_VLPs_rep3.fastq.gz
