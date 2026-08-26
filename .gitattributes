@@ -1,9 +1,6 @@
 kallisto_Gag-EIF4E_custom_index.idx filter=lfs diff=lfs merge=lfs -text
 hg19.mito.annot.cdna filter=lfs diff=lfs merge=lfs -text
 hg19.mito.annot.cdna.Gag-EIF4E.custom filter=lfs diff=lfs merge=lfs -text
-SA filter=lfs diff=lfs merge=lfs -text
-Genome filter=lfs diff=lfs merge=lfs -text
-SAindex filter=lfs diff=lfs merge=lfs -text
-gencode.v47.annotation.gtf filter=lfs diff=lfs merge=lfs -text
-GRCh38.primary_assembly.genome.fa filter=lfs diff=lfs merge=lfs -text
 hg19.annot.cdna filter=lfs diff=lfs merge=lfs -text
+gencode.v47.annotation.gtf.gz filter=lfs diff=lfs merge=lfs -text
+GRCh38.primary_assembly.genome.fa.gz filter=lfs diff=lfs merge=lfs -text
