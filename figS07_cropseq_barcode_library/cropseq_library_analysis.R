@@ -37,7 +37,7 @@ get_density <- function(x, y, ...) {
 ScatterPlotColorPanel = rev(c("#F8FA0D", "#F6DA23", "#F8BA43","#A5BE6A","#2DB7A3","#1389D2","#0262E0","#343DAE","#352A86"))
 
 # Initialize variables
-project_dir <- "/Volumes/mnajia/cropseq_barcode_library/"
+project_dir <- "/Volumes/mnajia/figS07_cropseq_barcode_library/"
 output_dir <- paste0(project_dir, "analysis/")
 counts_dir <- paste0(project_dir, "barcode_counts/")
 barcode_library_fn <- paste0(project_dir, "barcode_library.tsv")

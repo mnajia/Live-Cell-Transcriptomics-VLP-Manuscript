@@ -141,7 +141,7 @@ pal_atac <- colorRampPalette(c('#3361A5', '#248AF3', '#14B3FF',
                                '#FDB31A','#E42A2A', '#A31D1D'))(100)
 
 # Initialize variables
-project_dir <- "/Volumes/mnajia/2026-01-14_CSR/mps-time-course/"
+project_dir <- "/Volumes/mnajia/fig06_mps_time_course/"
 kallisto_dir <- paste0(project_dir, "kallisto_output/")
 output_dir <- paste0(project_dir, "analysis/")
 

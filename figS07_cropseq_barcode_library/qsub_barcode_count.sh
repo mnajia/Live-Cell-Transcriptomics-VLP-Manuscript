@@ -3,7 +3,7 @@
 #Mohamad Najia
 
 # Declare variables
-project_dir=/broad/hptmp/mnajia/cropseq_barcode_library
+project_dir=/broad/hptmp/mnajia/figS07_cropseq_barcode_library
 output_dir=${project_dir}/barcode_counts
 barcode_library=${project_dir}/barcode_library.tsv
 samplesheet=${project_dir}/samples.txt
